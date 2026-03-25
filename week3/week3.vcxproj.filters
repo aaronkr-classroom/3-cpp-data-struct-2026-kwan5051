@@ -21,7 +21,10 @@
     <ClCompile Include="grades_vec.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="３－３.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\3-3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\2-5 삼각형 (2).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
