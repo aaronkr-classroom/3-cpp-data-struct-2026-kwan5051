@@ -24,7 +24,16 @@
     <ClCompile Include="..\..\..\..\Downloads\3-3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\2-5 삼각형 (2).cpp">
+    <ClCompile Include="..\..\..\..\Downloads\3-4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quartiles.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="word_count.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="str_size.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
